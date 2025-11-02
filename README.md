@@ -22,3 +22,12 @@ https://docs.google.com/spreadsheets/d/1S0OqkQ_QQ0YzlkYQhpxOZJh55XdQ6KnR/edit?us
 Ссылка отчет Testing Report
 
 https://docs.google.com/document/d/1jK1sQ-pty2HzjjuGRyS2RiFi5J49P0_5/edit?usp=sharing&ouid=114792378742511743227&rtpof=true&sd=true
+
+Тестирование WEB-приложение в Charles Proxy
+
+https://drive.google.com/file/d/1q-uKfxTl1T9aqISZiZsiVUe4FGg4uS73/view?usp=sharing
+
+
+Тестирование мобильных приложений
+
+https://drive.google.com/file/d/1jaOIlwoRaohk3YBEqvE_ocApqDqceQZ8/view?usp=sharing
